@@ -10,11 +10,11 @@
 ### Resultado
 
 <img src="./flutter_01.png" alt="alt text" width="45%" style="float: left; padding-right: 2%">
-<img src="./flutter_02.png" alt="alt text" width="50%" style="float: left">
+<img src="./flutter_02.png" alt="alt text" width="45%" style="float: left">
 <img src="./flutter_03.png" alt="alt text" width="45%" style="float: left; padding-right: 2%">
-<img src="./flutter_04.png" alt="alt text" width="50%" style="float: left">
+<img src="./flutter_04.png" alt="alt text" width="45%" style="float: left">
 <img src="./flutter_05.png" alt="alt text" width="45%" style="float: left; padding-right: 2%">
-<img src="./flutter_06.png" alt="alt text" width="50%" style="float: left">
+<img src="./flutter_06.png" alt="alt text" width="45%" style="float: left">
 <img src="./flutter_07.png" alt="alt text" width="45%" style="float: left; padding-right: 2%">
 <img src="./flutter_08.png" alt="alt text" width="45%" style="float: left">
 
